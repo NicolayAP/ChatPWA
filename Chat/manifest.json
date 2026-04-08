@@ -2,7 +2,7 @@
   "name": "Superhero Chat",
   "short_name": "Chat",
   "description": "A simple chat application for superheroes.",
-  "start_url": "index.html",
+  "start_url": "./index.html",
   "background_color": "#1a1a2e",
   "theme_color": "#0f3460",
   "display": "standalone",
