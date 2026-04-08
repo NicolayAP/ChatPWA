@@ -1,10 +1,16 @@
 {
-    "name": "Chat",
-    "short_name": "Chat",
-    "description": "A simple chat application.",
-    "start_url": "index.html",
-    "background_color": "#ffffff",
-    "display": "standalone",
-    "orientation": "portrait",
-    "scope": "./"
+  "name": "Superhero Chat",
+  "short_name": "Chat",
+  "description": "A simple chat application for superheroes.",
+  "start_url": "index.html",
+  "background_color": "#1a1a2e",
+  "theme_color": "#0f3460",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "./",
+  "lang": "es",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
 }
